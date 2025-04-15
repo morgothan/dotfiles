@@ -1,5 +1,10 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhistcnt =4
+let g:netrw_dirhistcnt =9
+let g:netrw_dirhist_9='/home/nat/.local/share/chezmoi'
+let g:netrw_dirhist_8='/home/nat/.local/share/chezmoi/dot_vim'
+let g:netrw_dirhist_7='/home/nat/.local/share/chezmoi/dot_vim/plugged'
+let g:netrw_dirhist_6='/home/nat/.local/share/chezmoi/dot_vim'
+let g:netrw_dirhist_5='/home/nat/.local/share/chezmoi'
 let g:netrw_dirhist_4='/home/nat/docker/error-pages'
 let g:netrw_dirhist_3='/home/nat/docker/traefik'
 let g:netrw_dirhist_2='/home/nat/.oh-my-zsh/templates'
