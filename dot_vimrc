@@ -3,6 +3,8 @@ call plug#begin()
 " List your plugins here
  Plug 'tpope/vim-sensible'
  Plug 'dracula/vim', { 'as': 'dracula' }
+ Plug 'prabirshrestha/vim-lsp'
+ Plug 'mattn/vim-lsp-settings'
 
 
 call plug#end()
